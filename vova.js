@@ -10,8 +10,8 @@ const user = new VK();
 const { updates: cm, snippets, upload } = vk;
 
 // Авторизация
-const gtoken = '6c7ff9992a971135f73b31e49ecfd65a87a6b561453ee6be87374761720c8798f3ac9fe77e458907f81b1' // токен группы
-const ut = 'd4f15d102b2c2b2d243bd3a065a56aacf1163b4c0f9117a52f60df4907501e1e8457072e480148d06e66a' // токен вашей страницы вк получать тут https://vkhost.github.io/ от приложения kate mobile
+const gtoken = '(gtoken)' // токен группы
+const ut = '(utoken)' // токен вашей страницы вк получать тут https://vkhost.github.io/ от приложения kate mobile
 const gid =  173290101
 const qt = '' //qiwi токен для qiwi системы (по желанию)
 // Авторизация
